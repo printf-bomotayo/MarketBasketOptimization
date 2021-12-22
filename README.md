@@ -1,2 +1,2 @@
 # MarketBasketOptimization
-This Repo contains the source code for an Association rule algorithm using the Apriori Library for retail gorcery store in Southern France to determine the buying patterns of customers with respect to some common grocery items.
+This Repo contains the source code for an Association rule algorithm using the Apriori Library for a retail gorcery store in Southern France to determine the buying patterns of customers with respect to some common grocery items which includes: formage blanc, honey, light cream, chicken, pasta, escalope, shrimp, whole wheat pasta, olive oil, tomato sauce, ground beef, mushroom vream sauce, and herb & pepper.
